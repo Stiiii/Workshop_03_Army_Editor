@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:Workshop_03_Army_Editor"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <Grid></Grid>
     <Grid>
 
     </Grid>
